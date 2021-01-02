@@ -14,4 +14,4 @@ The HFS600 freezing and heating stage is used to adjust the environmental temper
 * New Design <br />
 <img src="https://github.com/yuchenzhou8/Gong_Lab/blob/main/New%20HFS600%20Design.jpg" width = '500'> <br />
 * Experiment with Magnetic Coil <br />
-<img src="https://github.com/yuchenzhou8/Gong_Lab/blob/main/With%20Magnetic%20Field.jpg"><br />
+<img src="https://github.com/yuchenzhou8/Gong_Lab/blob/main/With%20Magnetic%20Field.jpg" width = '500'><br />
